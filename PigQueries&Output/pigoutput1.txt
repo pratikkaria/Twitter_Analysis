@@ -1,0 +1,177 @@
+Chad,4,{(1,,_Kinyanjui_,1,true,Chad),(1,,anderson_ogutta,4,true,Chad),(1,,josemathenge,4,true,Chad),(1,,how2beMburu,4,true,Chad)}
+Cuba,7,{(1,,CostasMaits,3,true,Cuba),(1,,VanessaBreedy,14,true,Cuba),(1,,LawsonAuthor,2,true,Cuba),(1,,CustardComms,1,true,Cuba),(1,,actualmontaigne,3,true,Cuba),(1,,lunetta_2016,14,true,Cuba),(1,,Rebecasdey,1,true,Cuba)}
+Mali,1,{(1,,AJDobbs2112,1,true,Mali)}
+Oman,5,{(1,,cansomeonehelp,2,true,Oman),(1,,OnMyKindle1,2,true,Oman),(1,,lenghout13,3,true,Oman),(1,,purringpawter,3,true,Oman),(1,,accimusmalfoy,3,true,Oman)}
+Peru,3,{(1,,stormbot_int,1,true,Peru),(1,,LeeWilson179,1,true,Peru),(1,,ChelseaTatham,1,true,Peru)}
+Togo,1,{(1,,AJDobbs2112,1,true,Togo)}
+Aruba,7,{(1,,PatsKarvelas,3,true,Aruba),(1,,actualmontaigne,3,true,Aruba),(1,,CostasMaits,3,true,Aruba),(1,,CustardComms,1,true,Aruba),(1,,DiyathYavin,13,true,Aruba),(1,,tuirenn,20,true,Aruba),(1,,Tolkien_Musical,20,true,Aruba)}
+Benin,1,{(1,,AJDobbs2112,1,true,Benin)}
+Chile,2,{(1,,LeeWilson179,1,true,Chile),(1,,guillermofdezg,1,true,Chile)}
+China,1,{(1,,yuuji_K1,2,true,China)}
+Congo,4,{(1,,josemathenge,4,true,Congo),(1,,_Kinyanjui_,1,true,Congo),(1,,anderson_ogutta,4,true,Congo),(1,,how2beMburu,4,true,Congo)}
+Egypt,1,{(1,,Dremico,4,true,Egypt)}
+Gabon,4,{(1,,josemathenge,4,true,Gabon),(1,,how2beMburu,4,true,Gabon),(1,,anderson_ogutta,4,true,Gabon),(1,,_Kinyanjui_,1,true,Gabon)}
+Ghana,1,{(1,,AJDobbs2112,1,true,Ghana)}
+Haiti,6,{(1,,LawsonAuthor,2,true,Haiti),(1,,PatsKarvelas,3,true,Haiti),(1,,actualmontaigne,3,true,Haiti),(1,,lunetta_2016,14,true,Haiti),(1,,CostasMaits,3,true,Haiti),(1,,CustardComms,1,true,Haiti)}
+India,5,{(1,,cansomeonehelp,2,true,India),(1,,purringpawter,3,true,India),(1,,OnMyKindle1,2,true,India),(1,,lenghout13,3,true,India),(1,,accimusmalfoy,3,true,India)}
+Italy,6,{(1,,BloggerBees,1,true,Italy),(1,,BernardMeyerIB,1,true,Italy),(1,,katiestan8,227,true,Italy),(1,,_auroraSWAN,66,true,Italy),(1,,harryspotter8,6,true,Italy),(1,,nicky272,9,true,Italy)}
+Kenya,4,{(1,,_Kinyanjui_,1,true,Kenya),(1,,anderson_ogutta,4,true,Kenya),(1,,how2beMburu,4,true,Kenya),(1,,josemathenge,4,true,Kenya)}
+Malta,5,{(1,,SmiiileOfGomez,4,true,Malta),(1,,Dremico,4,true,Malta),(1,,middletonsweet,4,true,Malta),(1,,harryspotter8,1,true,Malta),(1,,harryspotter8,2,true,Malta)}
+Nepal,5,{(1,,accimusmalfoy,3,true,Nepal),(1,,OnMyKindle1,2,true,Nepal),(1,,lenghout13,3,true,Nepal),(1,,purringpawter,3,true,Nepal),(1,,cansomeonehelp,2,true,Nepal)}
+Niger,1,{(1,,AJDobbs2112,1,true,Niger)}
+Palau,2,{(1,,How1GETit340,1,true,Palau),(1,,ugipewe,1,true,Palau)}
+Qatar,5,{(1,,OnMyKindle1,2,true,Qatar),(1,,cansomeonehelp,2,true,Qatar),(1,,accimusmalfoy,3,true,Qatar),(1,,purringpawter,3,true,Qatar),(1,,lenghout13,3,true,Qatar)}
+Spain,8,{(1,,katiestan8,228,true,Spain),(1,,AhhLiiKazam,228,true,Spain),(1,,_auroraSWAN,66,true,Spain),(1,,astherianti,6,true,Spain),(1,,BloggerBees,1,true,Spain),(1,,eugeniamaria22,6,true,Spain),(1,,itsClarybitch,1,true,Spain),(1,,IdoParisienne5,6,true,Spain)}
+Sudan,4,{(1,,_Kinyanjui_,1,true,Sudan),(1,,anderson_ogutta,4,true,Sudan),(1,,josemathenge,4,true,Sudan),(1,,how2beMburu,4,true,Sudan)}
+Tonga,1,{(1,,FoxyLustyGrover,1,true,Tonga)}
+"Macao,1,{(1,,How1GETit340,1,true,"Macao)}
+Angola,4,{(1,,anderson_ogutta,4,true,Angola),(1,,_Kinyanjui_,1,true,Angola),(1,,josemathenge,4,true,Angola),(1,,how2beMburu,4,true,Angola)}
+Belize,7,{(1,,actualmontaigne,3,true,Belize),(1,,lunetta_2016,14,true,Belize),(1,,CostasMaits,3,true,Belize),(1,,VanessaBreedy,14,true,Belize),(1,,CustardComms,1,true,Belize),(1,,PatsKarvelas,3,true,Belize),(1,,LawsonAuthor,2,true,Belize)}
+Bhutan,6,{(1,,OnMyKindle1,2,true,Bhutan),(1,,cansomeonehelp,2,true,Bhutan),(1,,accimusmalfoy,3,true,Bhutan),(1,,purringpawter,3,true,Bhutan),(1,,lenghout13,3,true,Bhutan),(1,,swaqasf5,1,true,Bhutan)}
+Brazil,5,{(1,,TheHandbagNews,3,true,Brazil),(1,,Penguin_Pouches,3,true,Brazil),(1,,jenpsht,3,true,Brazil),(1,,stormbot_int,1,true,Brazil),(1,,LeeWilson179,1,true,Brazil)}
+Canada,6,{(1,,sambenlakhal,1092,true,Canada),(1,,trulla357,5,true,Canada),(1,,Lexlife20,4,true,Canada),(1,,AnferneeFernan1,4,true,Canada),(1,,_44_YearsVIRGIN,4,true,Canada),(1,,MarshaAMoore,4,true,Canada)}
+Comros,4,{(1,,anderson_ogutta,4,true,Comros),(1,,how2beMburu,4,true,Comros),(1,,josemathenge,4,true,Comros),(1,,_Kinyanjui_,1,true,Comros)}
+Cyprus,1,{(1,,Dremico,4,true,Cyprus)}
+Gambia,1,{(1,,AJDobbs2112,1,true,Gambia)}
+Greece,4,{(1,,harryspotter8,2,true,Greece),(1,,Dremico,4,true,Greece),(1,,middletonsweet,4,true,Greece),(1,,SmiiileOfGomez,4,true,Greece)}
+Guinea,1,{(1,,AJDobbs2112,1,true,Guinea)}
+Guyana,7,{(1,,Tolkien_Musical,20,true,Guyana),(1,,CostasMaits,3,true,Guyana),(1,,actualmontaigne,3,true,Guyana),(1,,PatsKarvelas,3,true,Guyana),(1,,tuirenn,20,true,Guyana),(1,,DiyathYavin,13,true,Guyana),(1,,CustardComms,1,true,Guyana)}
+Kuwait,5,{(1,,purringpawter,3,true,Kuwait),(1,,harryspotter8,1,true,Kuwait),(1,,swaqasf5,1,true,Kuwait),(1,,accimusmalfoy,3,true,Kuwait),(1,,lenghout13,3,true,Kuwait)}
+Latvia,1,{(1,,Dremico,4,true,Latvia)}
+Malawi,4,{(1,,_Kinyanjui_,1,true,Malawi),(1,,anderson_ogutta,4,true,Malawi),(1,,how2beMburu,4,true,Malawi),(1,,josemathenge,4,true,Malawi)}
+Mexico,6,{(1,,CustardComms,1,true,Mexico),(1,,VanessaBreedy,14,true,Mexico),(1,,Thompson_Debra0,1,true,Mexico),(1,,NerdyAsians,36,true,Mexico),(1,,jaydestarlight,36,true,Mexico),(1,,LawsonAuthor,2,true,Mexico)}
+Norway,9,{(1,,SteveGraul,1,true,Norway),(1,,tourism_europe,5,true,Norway),(1,,tamalyn1,398,true,Norway),(1,,eugeniamaria22,5,true,Norway),(1,,BloggerBees,1,true,Norway),(1,,astherianti,5,true,Norway),(1,,_auroraSWAN,66,true,Norway),(1,,annie4578,398,true,Norway),(1,,budget_tourist,5,true,Norway)}
+Panama,8,{(1,,tracihallauthor,4,true,Panama),(1,,MikeScottBook,4,true,Panama),(1,,stacyjuba,4,true,Panama),(1,,Tolkien_Musical,20,true,Panama),(1,,CustardComms,1,true,Panama),(1,,CostasMaits,3,true,Panama),(1,,actualmontaigne,3,true,Panama),(1,,PatsKarvelas,3,true,Panama)}
+Poland,4,{(1,,SmiiileOfGomez,4,true,Poland),(1,,LoveOurBears,3,true,Poland),(1,,Dremico,4,true,Poland),(1,,middletonsweet,4,true,Poland)}
+Sweden,1,{(1,,Dremico,4,true,Sweden)}
+Turkey,1,{(1,,Dremico,4,true,Turkey)}
+Uganda,4,{(1,,josemathenge,4,true,Uganda),(1,,how2beMburu,4,true,Uganda),(1,,anderson_ogutta,4,true,Uganda),(1,,_Kinyanjui_,1,true,Uganda)}
+Zambia,4,{(1,,anderson_ogutta,4,true,Zambia),(1,,_Kinyanjui_,1,true,Zambia),(1,,josemathenge,4,true,Zambia),(1,,how2beMburu,4,true,Zambia)}
+Albania,3,{(1,,Dremico,4,true,Albania),(1,,middletonsweet,4,true,Albania),(1,,SmiiileOfGomez,4,true,Albania)}
+Algeria,4,{(1,,harryspotter8,5,true,Algeria),(1,,hesitantaliiens,9,true,Algeria),(1,,BernardMeyerIB,1,true,Algeria),(1,,nicky272,9,true,Algeria)}
+Andorra,8,{(1,,annie4578,398,true,Andorra),(1,,nicky272,9,true,Andorra),(1,,UKinIndia,3,true,Andorra),(1,,tamalyn1,398,true,Andorra),(1,,SteveGraul,1,true,Andorra),(1,,budget_tourist,3,true,Andorra),(1,,tourism_europe,3,true,Andorra),(1,,harryspotter8,5,true,Andorra)}
+Austria,4,{(1,,hesitantaliiens,9,true,Austria),(1,,nicky272,9,true,Austria),(1,,BernardMeyerIB,1,true,Austria),(1,,harryspotter8,5,true,Austria)}
+Bahamas,7,{(1,,CostasMaits,3,true,Bahamas),(1,,CustardComms,1,true,Bahamas),(1,,VanessaBreedy,14,true,Bahamas),(1,,_44_YearsVIRGIN,4,true,Bahamas),(1,,sotel_francisco,404,true,Bahamas),(1,,sambenlakhal,1092,true,Bahamas),(1,,LawsonAuthor,2,true,Bahamas)}
+Bahrain,5,{(1,,cansomeonehelp,2,true,Bahrain),(1,,OnMyKindle1,2,true,Bahrain),(1,,accimusmalfoy,3,true,Bahrain),(1,,purringpawter,3,true,Bahrain),(1,,lenghout13,3,true,Bahrain)}
+Belarus,1,{(1,,Dremico,4,true,Belarus)}
+Belgium,8,{(1,,tourism_europe,3,true,Belgium),(1,,nicky272,9,true,Belgium),(1,,UKinIndia,3,true,Belgium),(1,,tamalyn1,398,true,Belgium),(1,,annie4578,398,true,Belgium),(1,,SteveGraul,1,true,Belgium),(1,,budget_tourist,3,true,Belgium),(1,,harryspotter8,5,true,Belgium)}
+Bolivia,5,{(1,,Penguin_Pouches,3,true,Bolivia),(1,,stormbot_int,1,true,Bolivia),(1,,jenpsht,3,true,Bolivia),(1,,LeeWilson179,1,true,Bolivia),(1,,ChelseaTatham,1,true,Bolivia)}
+Burundi,4,{(1,,josemathenge,4,true,Burundi),(1,,how2beMburu,4,true,Burundi),(1,,anderson_ogutta,4,true,Burundi),(1,,_Kinyanjui_,1,true,Burundi)}
+Croatia,4,{(1,,BernardMeyerIB,1,true,Croatia),(1,,harryspotter8,5,true,Croatia),(1,,hesitantaliiens,9,true,Croatia),(1,,nicky272,9,true,Croatia)}
+Denmark,8,{(1,,astherianti,4,true,Denmark),(1,,_auroraSWAN,66,true,Denmark),(1,,tamalyn1,398,true,Denmark),(1,,harryspotter8,5,true,Denmark),(1,,tourism_europe,4,true,Denmark),(1,,budget_tourist,4,true,Denmark),(1,,SteveGraul,1,true,Denmark),(1,,annie4578,398,true,Denmark)}
+Ecuador,1,{(1,,b_Sarah7,1,true,Ecuador)}
+Eritrea,4,{(1,,anderson_ogutta,4,true,Eritrea),(1,,how2beMburu,4,true,Eritrea),(1,,josemathenge,4,true,Eritrea),(1,,_Kinyanjui_,1,true,Eritrea)}
+Estonia,1,{(1,,Mcn1110,2,true,Estonia)}
+Germany,9,{(1,,astherianti,4,true,Germany),(1,,katiestan8,227,true,Germany),(1,,annie4578,398,true,Germany),(1,,SteveGraul,1,true,Germany),(1,,budget_tourist,4,true,Germany),(1,,tourism_europe,4,true,Germany),(1,,harryspotter8,6,true,Germany),(1,,tamalyn1,398,true,Germany),(1,,_auroraSWAN,66,true,Germany)}
+Hungary,6,{(1,,katiestan8,227,true,Hungary),(1,,hesitantaliiens,9,true,Hungary),(1,,BernardMeyerIB,1,true,Hungary),(1,,nicky272,9,true,Hungary),(1,,_auroraSWAN,66,true,Hungary),(1,,harryspotter8,6,true,Hungary)}
+Iceland,5,{(1,,judehaste1967,3,true,Iceland),(1,,NewsdeskFILM,2,true,Iceland),(1,,IvMathers,2,true,Iceland),(1,,FordBethan,3,true,Iceland),(1,,ElizabethGant3,3,true,Iceland)}
+Ireland,9,{(1,,katiestan8,227,true,Ireland),(1,,astherianti,4,true,Ireland),(1,,BloggerBees,1,true,Ireland),(1,,tourism_europe,4,true,Ireland),(1,,budget_tourist,4,true,Ireland),(1,,SteveGraul,1,true,Ireland),(1,,annie4578,398,true,Ireland),(1,,tamalyn1,398,true,Ireland),(1,,_auroraSWAN,66,true,Ireland)}
+Jamaica,7,{(1,,CostasMaits,3,true,Jamaica),(1,,CustardComms,1,true,Jamaica),(1,,LawsonAuthor,2,true,Jamaica),(1,,VanessaBreedy,14,true,Jamaica),(1,,PatsKarvelas,3,true,Jamaica),(1,,actualmontaigne,3,true,Jamaica),(1,,lunetta_2016,14,true,Jamaica)}
+Lebanon,1,{(1,,Dremico,4,true,Lebanon)}
+Lesotho,1,{(1,,silviamarielaat,3,true,Lesotho)}
+Liberia,1,{(1,,AJDobbs2112,1,true,Liberia)}
+Mayotte,4,{(1,,_Kinyanjui_,1,true,Mayotte),(1,,anderson_ogutta,4,true,Mayotte),(1,,how2beMburu,4,true,Mayotte),(1,,josemathenge,4,true,Mayotte)}
+Myanmar,9,{(1,,afiiiiiqah_,22,true,Myanmar),(1,,_iskandar23,22,true,Myanmar),(1,,LauraChiaHY,22,true,Myanmar),(1,,_melsn,22,true,Myanmar),(1,,cansomeonehelp,2,true,Myanmar),(1,,8888renuka,22,true,Myanmar),(1,,perkynm,22,true,Myanmar),(1,,OnMyKindle1,2,true,Myanmar),(1,,frinatetsu,22,true,Myanmar)}
+Namibia,1,{(1,,silviamarielaat,3,true,Namibia)}
+Nigeria,4,{(1,,anderson_ogutta,4,true,Nigeria),(1,,josemathenge,4,true,Nigeria),(1,,_Kinyanjui_,1,true,Nigeria),(1,,how2beMburu,4,true,Nigeria)}
+Rawanda,4,{(1,,josemathenge,4,true,Rawanda),(1,,_Kinyanjui_,1,true,Rawanda),(1,,how2beMburu,4,true,Rawanda),(1,,anderson_ogutta,4,true,Rawanda)}
+Romania,3,{(1,,Dremico,4,true,Romania),(1,,harryspotter8,2,true,Romania),(1,,harryspotter8,1,true,Romania)}
+Senegal,1,{(1,,AJDobbs2112,1,true,Senegal)}
+Somalia,4,{(1,,anderson_ogutta,4,true,Somalia),(1,,how2beMburu,4,true,Somalia),(1,,josemathenge,4,true,Somalia),(1,,_Kinyanjui_,1,true,Somalia)}
+Tunisia,6,{(1,,harryspotter8,6,true,Tunisia),(1,,_auroraSWAN,66,true,Tunisia),(1,,nicky272,9,true,Tunisia),(1,,itsClarybitch,1,true,Tunisia),(1,,AhhLiiKazam,228,true,Tunisia),(1,,katiestan8,228,true,Tunisia)}
+Ukraine,1,{(1,,Dremico,4,true,Ukraine)}
+Uruguay,5,{(1,,Penguin_Pouches,3,true,Uruguay),(1,,stormbot_int,1,true,Uruguay),(1,,LeeWilson179,1,true,Uruguay),(1,,guillermofdezg,1,true,Uruguay),(1,,jenpsht,3,true,Uruguay)}
+"Moldova,2,{(1,,Dremico,4,true,"Moldova),(1,,harryspotter8,1,true,"Moldova)}
+Barbados,7,{(1,,Tolkien_Musical,20,true,Barbados),(1,,actualmontaigne,3,true,Barbados),(1,,DiyathYavin,13,true,Barbados),(1,,CostasMaits,3,true,Barbados),(1,,CustardComms,1,true,Barbados),(1,,tuirenn,20,true,Barbados),(1,,PatsKarvelas,3,true,Barbados)}
+Botswana,1,{(1,,silviamarielaat,3,true,Botswana)}
+Bulgaria,3,{(1,,SmiiileOfGomez,4,true,Bulgaria),(1,,middletonsweet,4,true,Bulgaria),(1,,Dremico,4,true,Bulgaria)}
+Cambodia,9,{(1,,OnMyKindle1,2,true,Cambodia),(1,,_melsn,21,true,Cambodia),(1,,cansomeonehelp,2,true,Cambodia),(1,,8888renuka,21,true,Cambodia),(1,,frinatetsu,21,true,Cambodia),(1,,_iskandar23,21,true,Cambodia),(1,,perkynm,21,true,Cambodia),(1,,LauraChiaHY,21,true,Cambodia),(1,,afiiiiiqah_,21,true,Cambodia)}
+Cameroon,4,{(1,,how2beMburu,4,true,Cameroon),(1,,_Kinyanjui_,1,true,Cameroon),(1,,anderson_ogutta,4,true,Cameroon),(1,,josemathenge,4,true,Cameroon)}
+Djibouti,4,{(1,,anderson_ogutta,4,true,Djibouti),(1,,_Kinyanjui_,1,true,Djibouti),(1,,how2beMburu,4,true,Djibouti),(1,,josemathenge,4,true,Djibouti)}
+Dominica,7,{(1,,DiyathYavin,13,true,Dominica),(1,,PatsKarvelas,3,true,Dominica),(1,,CustardComms,1,true,Dominica),(1,,CostasMaits,3,true,Dominica),(1,,actualmontaigne,3,true,Dominica),(1,,tuirenn,20,true,Dominica),(1,,Tolkien_Musical,20,true,Dominica)}
+Ethiopia,4,{(1,,anderson_ogutta,4,true,Ethiopia),(1,,how2beMburu,4,true,Ethiopia),(1,,josemathenge,4,true,Ethiopia),(1,,_Kinyanjui_,1,true,Ethiopia)}
+Guernsey,9,{(1,,SteveGraul,1,true,Guernsey),(1,,katiestan8,227,true,Guernsey),(1,,harryspotter8,6,true,Guernsey),(1,,annie4578,398,true,Guernsey),(1,,astherianti,4,true,Guernsey),(1,,_auroraSWAN,66,true,Guernsey),(1,,tamalyn1,398,true,Guernsey),(1,,tourism_europe,4,true,Guernsey),(1,,budget_tourist,4,true,Guernsey)}
+Malaysia,2,{(1,,8888renuka,22,true,Malaysia),(1,,OnMyKindle1,2,true,Malaysia)}
+Maldives,9,{(1,,cansomeonehelp,2,true,Maldives),(1,,8888renuka,22,true,Maldives),(1,,OnMyKindle1,2,true,Maldives),(1,,afiiiiiqah_,22,true,Maldives),(1,,_iskandar23,22,true,Maldives),(1,,frinatetsu,22,true,Maldives),(1,,perkynm,22,true,Maldives),(1,,LauraChiaHY,22,true,Maldives),(1,,_melsn,22,true,Maldives)}
+Pakistan,5,{(1,,accimusmalfoy,3,true,Pakistan),(1,,purringpawter,3,true,Pakistan),(1,,harryspotter8,1,true,Pakistan),(1,,swaqasf5,1,true,Pakistan),(1,,lenghout13,3,true,Pakistan)}
+Paraguay,5,{(1,,LeeWilson179,1,true,Paraguay),(1,,guillermofdezg,1,true,Paraguay),(1,,stormbot_int,1,true,Paraguay),(1,,Penguin_Pouches,3,true,Paraguay),(1,,jenpsht,3,true,Paraguay)}
+Portugal,8,{(1,,eugeniamaria22,5,true,Portugal),(1,,annie4578,398,true,Portugal),(1,,_auroraSWAN,66,true,Portugal),(1,,astherianti,5,true,Portugal),(1,,katiestan8,227,true,Portugal),(1,,BloggerBees,1,true,Portugal),(1,,tamalyn1,398,true,Portugal),(1,,SteveGraul,1,true,Portugal)}
+Slovakia,6,{(1,,harryspotter8,6,true,Slovakia),(1,,_auroraSWAN,66,true,Slovakia),(1,,katiestan8,228,true,Slovakia),(1,,BloggerBees,1,true,Slovakia),(1,,itsClarybitch,1,true,Slovakia),(1,,nicky272,9,true,Slovakia)}
+Slovenia,1,{(1,,IdoParisienne5,6,true,Slovenia)}
+Suriname,7,{(1,,PatsKarvelas,3,true,Suriname),(1,,DiyathYavin,13,true,Suriname),(1,,CostasMaits,3,true,Suriname),(1,,actualmontaigne,3,true,Suriname),(1,,Tolkien_Musical,20,true,Suriname),(1,,tuirenn,20,true,Suriname),(1,,CustardComms,1,true,Suriname)}
+Thailand,9,{(1,,_melsn,22,true,Thailand),(1,,LauraChiaHY,22,true,Thailand),(1,,perkynm,22,true,Thailand),(1,,cansomeonehelp,2,true,Thailand),(1,,8888renuka,22,true,Thailand),(1,,OnMyKindle1,2,true,Thailand),(1,,_iskandar23,22,true,Thailand),(1,,frinatetsu,22,true,Thailand),(1,,afiiiiiqah_,22,true,Thailand)}
+Viet Nam,6,{(1,,cansomeonehelp,2,true,Viet Nam),(1,,accimusmalfoy,3,true,Viet Nam),(1,,purringpawter,3,true,Viet Nam),(1,,lenghout13,3,true,Viet Nam),(1,,swaqasf5,1,true,Viet Nam),(1,,OnMyKindle1,2,true,Viet Nam)}
+Zimbabwe,4,{(1,,silviamarielaat,3,true,Zimbabwe),(1,,josemathenge,4,true,Zimbabwe),(1,,how2beMburu,4,true,Zimbabwe),(1,,anderson_ogutta,4,true,Zimbabwe)}
+Argentina,2,{(1,,guillermofdezg,1,true,Argentina),(1,,LeeWilson179,1,true,Argentina)}
+Australia,1,{(1,,Estradivaria,3,true,Australia)}
+Guatemala,6,{(1,,CostasMaits,3,true,Guatemala),(1,,actualmontaigne,3,true,Guatemala),(1,,CustardComms,1,true,Guatemala),(1,,LawsonAuthor,2,true,Guatemala),(1,,tracihallauthor,4,true,Guatemala),(1,,PatsKarvelas,3,true,Guatemala)}
+Indonesia,9,{(1,,afiiiiiqah_,22,true,Indonesia),(1,,LauraChiaHY,22,true,Indonesia),(1,,8888renuka,22,true,Indonesia),(1,,_melsn,22,true,Indonesia),(1,,perkynm,22,true,Indonesia),(1,,_iskandar23,22,true,Indonesia),(1,,frinatetsu,22,true,Indonesia),(1,,CalistaFong,22,true,Indonesia),(1,,VuNgocQuangHuy,22,true,Indonesia)}
+Lithuania,1,{(1,,Dremico,4,true,Lithuania)}
+Nicaragua,7,{(1,,stacyjuba,4,true,Nicaragua),(1,,tracihallauthor,4,true,Nicaragua),(1,,CustardComms,1,true,Nicaragua),(1,,CostasMaits,3,true,Nicaragua),(1,,actualmontaigne,3,true,Nicaragua),(1,,PatsKarvelas,3,true,Nicaragua),(1,,MikeScottBook,4,true,Nicaragua)}
+Swaziland,1,{(1,,silviamarielaat,3,true,Swaziland)}
+Venezuela,7,{(1,,actualmontaigne,3,true,Venezuela),(1,,Tolkien_Musical,20,true,Venezuela),(1,,tuirenn,20,true,Venezuela),(1,,DiyathYavin,13,true,Venezuela),(1,,CustardComms,1,true,Venezuela),(1,,PatsKarvelas,3,true,Venezuela),(1,,CostasMaits,3,true,Venezuela)}
+Azerbaijan,5,{(1,,swaqasf5,1,true,Azerbaijan),(1,,accimusmalfoy,3,true,Azerbaijan),(1,,lenghout13,3,true,Azerbaijan),(1,,FarzanaYameen,1,true,Azerbaijan),(1,,purringpawter,3,true,Azerbaijan)}
+Bangladesh,6,{(1,,cansomeonehelp,2,true,Bangladesh),(1,,accimusmalfoy,3,true,Bangladesh),(1,,purringpawter,3,true,Bangladesh),(1,,lenghout13,3,true,Bangladesh),(1,,swaqasf5,1,true,Bangladesh),(1,,OnMyKindle1,2,true,Bangladesh)}
+Cape Verde,1,{(1,,harryspotter8,1,true,Cape Verde)}
+Costa Rica,8,{(1,,actualmontaigne,3,true,Costa Rica),(1,,CustardComms,1,true,Costa Rica),(1,,CostasMaits,3,true,Costa Rica),(1,,PatsKarvelas,3,true,Costa Rica),(1,,tracihallauthor,4,true,Costa Rica),(1,,MikeScottBook,4,true,Costa Rica),(1,,stacyjuba,4,true,Costa Rica),(1,,Tolkien_Musical,20,true,Costa Rica)}
+East Timor,11,{(1,,perkynm,22,true,East Timor),(1,,_iskandar23,22,true,East Timor),(1,,afiiiiiqah_,22,true,East Timor),(1,,LauraChiaHY,22,true,East Timor),(1,,frinatetsu,22,true,East Timor),(1,,CalistaFong,22,true,East Timor),(1,,VuNgocQuangHuy,22,true,East Timor),(1,,je_no_we,22,true,East Timor),(1,,jannievita,4,true,East Timor),(1,,8888renuka,22,true,East Timor),(1,,_melsn,22,true,East Timor)}
+Guadeloupe,7,{(1,,Tolkien_Musical,20,true,Guadeloupe),(1,,tuirenn,20,true,Guadeloupe),(1,,DiyathYavin,13,true,Guadeloupe),(1,,CustardComms,1,true,Guadeloupe),(1,,CostasMaits,3,true,Guadeloupe),(1,,actualmontaigne,3,true,Guadeloupe),(1,,PatsKarvelas,3,true,Guadeloupe)}
+Kazakhstan,2,{(1,,5thGunners,1,true,Kazakhstan),(1,,FarzanaYameen,1,true,Kazakhstan)}
+Kyrgyzstan,5,{(1,,swaqasf5,1,true,Kyrgyzstan),(1,,accimusmalfoy,3,true,Kyrgyzstan),(1,,purringpawter,3,true,Kyrgyzstan),(1,,lenghout13,3,true,Kyrgyzstan),(1,,FarzanaYameen,1,true,Kyrgyzstan)}
+Luxembourg,9,{(1,,tamalyn1,398,true,Luxembourg),(1,,_auroraSWAN,66,true,Luxembourg),(1,,annie4578,398,true,Luxembourg),(1,,SteveGraul,1,true,Luxembourg),(1,,budget_tourist,5,true,Luxembourg),(1,,tourism_europe,5,true,Luxembourg),(1,,astherianti,5,true,Luxembourg),(1,,BloggerBees,1,true,Luxembourg),(1,,katiestan8,227,true,Luxembourg)}
+Madagascar,4,{(1,,anderson_ogutta,4,true,Madagascar),(1,,_Kinyanjui_,1,true,Madagascar),(1,,how2beMburu,4,true,Madagascar),(1,,josemathenge,4,true,Madagascar)}
+Martinique,7,{(1,,PatsKarvelas,3,true,Martinique),(1,,CustardComms,1,true,Martinique),(1,,CostasMaits,3,true,Martinique),(1,,actualmontaigne,3,true,Martinique),(1,,DiyathYavin,13,true,Martinique),(1,,tuirenn,20,true,Martinique),(1,,Tolkien_Musical,20,true,Martinique)}
+Mozambique,1,{(1,,silviamarielaat,3,true,Mozambique)}
+San Marino,8,{(1,,astherianti,6,true,San Marino),(1,,IdoParisienne5,6,true,San Marino),(1,,tamalyn1,398,true,San Marino),(1,,_auroraSWAN,66,true,San Marino),(1,,katiestan8,227,true,San Marino),(1,,BloggerBees,1,true,San Marino),(1,,eugeniamaria22,6,true,San Marino),(1,,itsClarybitch,1,true,San Marino)}
+Tajikistan,4,{(1,,purringpawter,3,true,Tajikistan),(1,,lenghout13,3,true,Tajikistan),(1,,swaqasf5,1,true,Tajikistan),(1,,accimusmalfoy,3,true,Tajikistan)}
+Uzbekistan,4,{(1,,swaqasf5,1,true,Uzbekistan),(1,,purringpawter,3,true,Uzbekistan),(1,,accimusmalfoy,3,true,Uzbekistan),(1,,lenghout13,3,true,Uzbekistan)}
+Yugoslavia,4,{(1,,SmiiileOfGomez,4,true,Yugoslavia),(1,,Dremico,4,true,Yugoslavia),(1,,middletonsweet,4,true,Yugoslavia),(1,,LoveOurBears,3,true,Yugoslavia)}
+Afghanistan,5,{(1,,accimusmalfoy,3,true,Afghanistan),(1,,lenghout13,3,true,Afghanistan),(1,,purringpawter,3,true,Afghanistan),(1,,harryspotter8,1,true,Afghanistan),(1,,swaqasf5,1,true,Afghanistan)}
+El Salvador,6,{(1,,PatsKarvelas,3,true,El Salvador),(1,,tracihallauthor,4,true,El Salvador),(1,,LawsonAuthor,2,true,El Salvador),(1,,CustardComms,1,true,El Salvador),(1,,CostasMaits,3,true,El Salvador),(1,,actualmontaigne,3,true,El Salvador)}
+Netherlands,9,{(1,,budget_tourist,5,true,Netherlands),(1,,astherianti,5,true,Netherlands),(1,,SteveGraul,1,true,Netherlands),(1,,annie4578,398,true,Netherlands),(1,,_auroraSWAN,66,true,Netherlands),(1,,BloggerBees,1,true,Netherlands),(1,,tamalyn1,398,true,Netherlands),(1,,eugeniamaria22,5,true,Netherlands),(1,,katiestan8,227,true,Netherlands)}
+New Zealand,2,{(1,,harryspotter8,1,true,New Zealand),(1,,mybrainis,1,true,New Zealand)}
+Philippines,10,{(1,,8888renuka,22,true,Philippines),(1,,afiiiiiqah_,22,true,Philippines),(1,,_melsn,22,true,Philippines),(1,,je_no_we,22,true,Philippines),(1,,perkynm,22,true,Philippines),(1,,_iskandar23,22,true,Philippines),(1,,LauraChiaHY,22,true,Philippines),(1,,frinatetsu,22,true,Philippines),(1,,CalistaFong,22,true,Philippines),(1,,VuNgocQuangHuy,22,true,Philippines)}
+Puerto Rico,7,{(1,,DiyathYavin,13,true,Puerto Rico),(1,,CostasMaits,3,true,Puerto Rico),(1,,CustardComms,1,true,Puerto Rico),(1,,tuirenn,20,true,Puerto Rico),(1,,Tolkien_Musical,20,true,Puerto Rico),(1,,PatsKarvelas,3,true,Puerto Rico),(1,,actualmontaigne,3,true,Puerto Rico)}
+Saint Lucia,7,{(1,,CostasMaits,3,true,Saint Lucia),(1,,CustardComms,1,true,Saint Lucia),(1,,actualmontaigne,3,true,Saint Lucia),(1,,DiyathYavin,13,true,Saint Lucia),(1,,PatsKarvelas,3,true,Saint Lucia),(1,,Tolkien_Musical,20,true,Saint Lucia),(1,,tuirenn,20,true,Saint Lucia)}
+Switzerland,8,{(1,,_auroraSWAN,66,true,Switzerland),(1,,itsClarybitch,1,true,Switzerland),(1,,IdoParisienne5,6,true,Switzerland),(1,,AhhLiiKazam,228,true,Switzerland),(1,,astherianti,6,true,Switzerland),(1,,katiestan8,228,true,Switzerland),(1,,BloggerBees,1,true,Switzerland),(1,,eugeniamaria22,6,true,Switzerland)}
+Burkina Faso,1,{(1,,AJDobbs2112,1,true,Burkina Faso)}
+Saudi Arabia,2,{(1,,7DAYSUAE,1,true,Saudi Arabia),(1,,harryspotter8,1,true,Saudi Arabia)}
+Sierra Leone,1,{(1,,AJDobbs2112,1,true,Sierra Leone)}
+South Africa,1,{(1,,silviamarielaat,3,true,South Africa)}
+Turkmenistan,4,{(1,,accimusmalfoy,3,true,Turkmenistan),(1,,lenghout13,3,true,Turkmenistan),(1,,purringpawter,3,true,Turkmenistan),(1,,swaqasf5,1,true,Turkmenistan)}
+Cote d'Ivoire,1,{(1,,AJDobbs2112,1,true,Cote d'Ivoire)}
+Faroe Islands,8,{(1,,nicky272,9,true,Faroe Islands),(1,,katiestan8,227,true,Faroe Islands),(1,,hesitantaliiens,9,true,Faroe Islands),(1,,mxrganftw,227,true,Faroe Islands),(1,,LucyLoveheart87,227,true,Faroe Islands),(1,,aliceistrash,227,true,Faroe Islands),(1,,shaniashelley,9,true,Faroe Islands),(1,,updatedtwins,9,true,Faroe Islands)}
+Guinea-Bissau,1,{(1,,AJDobbs2112,1,true,Guinea-Bissau)}
+Liechtenstein,9,{(1,,_auroraSWAN,66,true,Liechtenstein),(1,,tamalyn1,398,true,Liechtenstein),(1,,annie4578,398,true,Liechtenstein),(1,,SteveGraul,1,true,Liechtenstein),(1,,budget_tourist,5,true,Liechtenstein),(1,,katiestan8,227,true,Liechtenstein),(1,,tourism_europe,5,true,Liechtenstein),(1,,astherianti,5,true,Liechtenstein),(1,,BloggerBees,1,true,Liechtenstein)}
+New Caledonia,1,{(1,,kimrocheleau,1,true,New Caledonia)}
+Cayman Islands,7,{(1,,CustardComms,1,true,Cayman Islands),(1,,LawsonAuthor,2,true,Cayman Islands),(1,,VanessaBreedy,14,true,Cayman Islands),(1,,CostasMaits,3,true,Cayman Islands),(1,,lunetta_2016,14,true,Cayman Islands),(1,,actualmontaigne,3,true,Cayman Islands),(1,,PatsKarvelas,3,true,Cayman Islands)}
+Czech Republic,8,{(1,,tourism_europe,3,true,Czech Republic),(1,,budget_tourist,3,true,Czech Republic),(1,,_auroraSWAN,66,true,Czech Republic),(1,,harryspotter8,5,true,Czech Republic),(1,,SteveGraul,1,true,Czech Republic),(1,,annie4578,398,true,Czech Republic),(1,,tamalyn1,398,true,Czech Republic),(1,,nicky272,9,true,Czech Republic)}
+Norfolk Island,2,{(1,,harryspotter8,1,true,Norfolk Island),(1,,mybrainis,1,true,Norfolk Island)}
+Papua New Guinea,1,{(1,,ugipewe,1,true,Papua New Guinea)}
+Brunei Darussalam,9,{(1,,afiiiiiqah_,21,true,Brunei Darussalam),(1,,8888renuka,21,true,Brunei Darussalam),(1,,_melsn,21,true,Brunei Darussalam),(1,,VuNgocQuangHuy,21,true,Brunei Darussalam),(1,,CalistaFong,21,true,Brunei Darussalam),(1,,frinatetsu,21,true,Brunei Darussalam),(1,,_iskandar23,21,true,Brunei Darussalam),(1,,perkynm,21,true,Brunei Darussalam),(1,,LauraChiaHY,21,true,Brunei Darussalam)}
+Dominica Republic,7,{(1,,actualmontaigne,3,true,Dominica Republic),(1,,CostasMaits,3,true,Dominica Republic),(1,,CustardComms,1,true,Dominica Republic),(1,,tuirenn,20,true,Dominica Republic),(1,,DiyathYavin,13,true,Dominica Republic),(1,,Tolkien_Musical,20,true,Dominica Republic),(1,,PatsKarvelas,3,true,Dominica Republic)}
+Equatorial Guinea,4,{(1,,_Kinyanjui_,1,true,Equatorial Guinea),(1,,josemathenge,4,true,Equatorial Guinea),(1,,anderson_ogutta,4,true,Equatorial Guinea),(1,,how2beMburu,4,true,Equatorial Guinea)}
+Republic of Korea,1,{(1,,yuuji_K1,2,true,Republic of Korea)}
+Russian Federation,1,{(1,,Mcn1110,2,true,Russian Federation)}
+Antigua and Barbuda,7,{(1,,DiyathYavin,13,true,Antigua and Barbuda),(1,,CustardComms,1,true,Antigua and Barbuda),(1,,CostasMaits,3,true,Antigua and Barbuda),(1,,actualmontaigne,3,true,Antigua and Barbuda),(1,,PatsKarvelas,3,true,Antigua and Barbuda),(1,,Tolkien_Musical,20,true,Antigua and Barbuda),(1,,tuirenn,20,true,Antigua and Barbuda)}
+Netherlands Antilles,7,{(1,,PatsKarvelas,3,true,Netherlands Antilles),(1,,actualmontaigne,3,true,Netherlands Antilles),(1,,CustardComms,1,true,Netherlands Antilles),(1,,CostasMaits,3,true,Netherlands Antilles),(1,,DiyathYavin,13,true,Netherlands Antilles),(1,,tuirenn,20,true,Netherlands Antilles),(1,,Tolkien_Musical,20,true,Netherlands Antilles)}
+United Arab Emirates,5,{(1,,lenghout13,3,true,United Arab Emirates),(1,,purringpawter,3,true,United Arab Emirates),(1,,accimusmalfoy,3,true,United Arab Emirates),(1,,cansomeonehelp,2,true,United Arab Emirates),(1,,OnMyKindle1,2,true,United Arab Emirates)}
+Saint Kitts and Nevis,7,{(1,,actualmontaigne,3,true,Saint Kitts and Nevis),(1,,CustardComms,1,true,Saint Kitts and Nevis),(1,,DiyathYavin,13,true,Saint Kitts and Nevis),(1,,tuirenn,20,true,Saint Kitts and Nevis),(1,,Tolkien_Musical,20,true,Saint Kitts and Nevis),(1,,PatsKarvelas,3,true,Saint Kitts and Nevis),(1,,CostasMaits,3,true,Saint Kitts and Nevis)}
+Sao Tome and Principe,4,{(1,,_Kinyanjui_,1,true,Sao Tome and Principe),(1,,anderson_ogutta,4,true,Sao Tome and Principe),(1,,how2beMburu,4,true,Sao Tome and Principe),(1,,josemathenge,4,true,Sao Tome and Principe)}
+Bosnia and Herzegovina,5,{(1,,hesitantaliiens,9,true,Bosnia and Herzegovina),(1,,updatedtwins,9,true,Bosnia and Herzegovina),(1,,harryspotter8,5,true,Bosnia and Herzegovina),(1,,nicky272,9,true,Bosnia and Herzegovina),(1,,BernardMeyerIB,1,true,Bosnia and Herzegovina)}
+British Virgin Islands,7,{(1,,tuirenn,20,true,British Virgin Islands),(1,,actualmontaigne,3,true,British Virgin Islands),(1,,DiyathYavin,13,true,British Virgin Islands),(1,,PatsKarvelas,3,true,British Virgin Islands),(1,,Tolkien_Musical,20,true,British Virgin Islands),(1,,CostasMaits,3,true,British Virgin Islands),(1,,CustardComms,1,true,British Virgin Islands)}
+Libyan Arab Jamahiriya,6,{(1,,harryspotter8,1,true,Libyan Arab Jamahiriya),(1,,harryspotter8,2,true,Libyan Arab Jamahiriya),(1,,KOL_9692,2,true,Libyan Arab Jamahiriya),(1,,Dremico,4,true,Libyan Arab Jamahiriya),(1,,middletonsweet,4,true,Libyan Arab Jamahiriya),(1,,SmiiileOfGomez,4,true,Libyan Arab Jamahiriya)}
+Central African Republic,4,{(1,,anderson_ogutta,4,true,Central African Republic),(1,,josemathenge,4,true,Central African Republic),(1,,how2beMburu,4,true,Central African Republic),(1,,_Kinyanjui_,1,true,Central African Republic)}
+Northern Mariana Islands,1,{(1,,How1GETit340,1,true,Northern Mariana Islands)}
+United States of America,5,{(1,,smileybizzlex,26,true,United States of America),(1,,Lexlife20,4,true,United States of America),(1,,trulla357,5,true,United States of America),(1,,LawsonAuthor,2,true,United States of America),(1,,sambenlakhal,1092,true,United States of America)}
+Saint Pierre and Miquelon,7,{(1,,AnferneeFernan1,4,true,Saint Pierre and Miquelon),(1,,sotel_francisco,404,true,Saint Pierre and Miquelon),(1,,throughthecurls,118,true,Saint Pierre and Miquelon),(1,,sambenlakhal,1092,true,Saint Pierre and Miquelon),(1,,Lexlife20,4,true,Saint Pierre and Miquelon),(1,,_44_YearsVIRGIN,4,true,Saint Pierre and Miquelon),(1,,MarshaAMoore,4,true,Saint Pierre and Miquelon)}
+Iran (Islamic Republic of),4,{(1,,purringpawter,3,true,Iran (Islamic Republic of)),(1,,lenghout13,3,true,Iran (Islamic Republic of)),(1,,accimusmalfoy,3,true,Iran (Islamic Republic of)),(1,,swaqasf5,1,true,Iran (Islamic Republic of))}
+Falkland Islands (Malvinas),1,{(1,,guillermofdezg,1,true,Falkland Islands (Malvinas))}
+United Republic of Tanzania,4,{(1,,_Kinyanjui_,1,true,United Republic of Tanzania),(1,,josemathenge,4,true,United Republic of Tanzania),(1,,how2beMburu,4,true,United Republic of Tanzania),(1,,anderson_ogutta,4,true,United Republic of Tanzania)}
+Democratic People's Republic of,1,{(1,,yuuji_K1,2,true,Democratic People's Republic of)}
+United States of Virgin Islands,7,{(1,,Tolkien_Musical,20,true,United States of Virgin Islands),(1,,tuirenn,20,true,United States of Virgin Islands),(1,,DiyathYavin,13,true,United States of Virgin Islands),(1,,PatsKarvelas,3,true,United States of Virgin Islands),(1,,actualmontaigne,3,true,United States of Virgin Islands),(1,,CostasMaits,3,true,United States of Virgin Islands),(1,,CustardComms,1,true,United States of Virgin Islands)}
+Democratic Republic of the Congo,3,{(1,,AJDobbs2112,1,true,Democratic Republic of the Congo),(1,,anderson_ogutta,4,true,Democratic Republic of the Congo),(1,,how2beMburu,4,true,Democratic Republic of the Congo)}
+Lao People's Democratic Republic,9,{(1,,LauraChiaHY,22,true,Lao People's Democratic Republic),(1,,cansomeonehelp,2,true,Lao People's Democratic Republic),(1,,_melsn,22,true,Lao People's Democratic Republic),(1,,afiiiiiqah_,22,true,Lao People's Democratic Republic),(1,,perkynm,22,true,Lao People's Democratic Republic),(1,,_iskandar23,22,true,Lao People's Democratic Republic),(1,,frinatetsu,22,true,Lao People's Democratic Republic),(1,,OnMyKindle1,2,true,Lao People's Democratic Republic),(1,,8888renuka,22,true,Lao People's Democratic Republic)}
+Saint vincent and the Grenadines,7,{(1,,tuirenn,20,true,Saint vincent and the Grenadines),(1,,DiyathYavin,13,true,Saint vincent and the Grenadines),(1,,PatsKarvelas,3,true,Saint vincent and the Grenadines),(1,,actualmontaigne,3,true,Saint vincent and the Grenadines),(1,,CostasMaits,3,true,Saint vincent and the Grenadines),(1,,CustardComms,1,true,Saint vincent and the Grenadines),(1,,Tolkien_Musical,20,true,Saint vincent and the Grenadines)}
+The Former Yugoslav Republic of Macedonia,3,{(1,,middletonsweet,4,true,The Former Yugoslav Republic of Macedonia),(1,,Dremico,4,true,The Former Yugoslav Republic of Macedonia),(1,,SmiiileOfGomez,4,true,The Former Yugoslav Republic of Macedonia)}
+United Kingdom of Great Britain and Northern Ireland,7,{(1,,BookstartHants,5,true,United Kingdom of Great Britain and Northern Ireland),(1,,Wishingwell66,400,true,United Kingdom of Great Britain and Northern Ireland),(1,,itsClarybitch,1,true,United Kingdom of Great Britain and Northern Ireland),(1,,tbhsian,229,true,United Kingdom of Great Britain and Northern Ireland),(1,,ysbboh,400,true,United Kingdom of Great Britain and Northern Ireland),(1,,IdoParisienne5,6,true,United Kingdom of Great Britain and Northern Ireland),(1,,AhhLiiKazam,229,true,United Kingdom of Great Britain and Northern Ireland)}
