@@ -241,12 +241,12 @@ export PIG_HOME = /home/Hadoop/Pig
 export PATH  = PATH:/home/Hadoop/pig/bin
 export PIG_CLASSPATH = $HADOOP_HOME/conf
 
-MOTIVATION
+#MOTIVATION
 
 Using this project, we can understand the demographic reach of any publication to analyse various variables that can help us understand the importance of the publications. It can further be utilised to improvise the strategies of marketing the publications to increase readability, sales and other necessary requirements for the public to like the publication better.
 The world is becoming data driven. Each and every decision are now taken on data from stock markets to the machines that stalk us. The data generated is growing exponentially. With this data we can also develop great solutions around the data. Dependency of variables on data increases the probability of taking better decisions and many problem statements can be designed from the data and solutions are also generated from the same.
 
-CONTRIBUTORS
+#CONTRIBUTORS
 
 1.	Arjyak Bhattacharya (arjyakonline@gmail.com )
 2.	Pratik Karia (pratikkaria96@gmail.com )
