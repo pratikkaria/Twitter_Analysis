@@ -1,11 +1,11 @@
 
-SCOPE
+#SCOPE
 
 The objective is to map the relative demographically segregated interest generated over social media regarding a particular topic, as found in the frequency of use of a set of hashtags on Twitter. For the purpose of this project, we will use analytics to find interest generated about the launch of “Harry Potter and the Cursed Child” – the eighth book in the hugely successful Harry Potter series by J.K. Rowling. 
 By searching and analysing based on specific hashtags - #CursedChild, #HarryPotter, #ChosenOne, #JKRowling and #Potterhead – we will be able to narrow down to the generic interest groups relating to the launch of the book. The data taken will involve tweets that have been posted since the book was officially launched.
 Using this information, we have to categorize tweets by country, spanning all countries in the world where there have been tweets about the event. The final objective is to plot the frequency of tweets from each country, thus determining which nations generate maximum interest and which show lukewarm response.
 
-STEPS OF EXECUTION
+#STEPS OF EXECUTION
 
 o	An application is created in twitter in order to get the tokens to fetch real time twitter data.
 o	The twitteR package is installed in R.
@@ -41,7 +41,7 @@ for(i in 60:100)
  				 latitude<-Latitud[i]
  				 longitude<-Logitud[i]
  				 loc<-paste0(latitude,',',longitude,',',dist,"km")
-statuses<-searchTwitter("#HarryPotter", n=50, lang="en",geocode = loc)
+statuses<-searchTwitter("/#HarryPotter", n=50, lang="en",geocode = loc)
  				 tweets.df <- do.call("rbind", lapply(statuses, as.data.frame))
  				 X <- vector(mode="character", length=nrow(tweets.df))
   				for(j in 1:nrow(tweets.df))
@@ -56,7 +56,7 @@ big_data = do.call(rbind, datalist)
 class(big_data)
 write.csv(big_data, file="FINAL.csv")
 		
-#Run the following code in Pig (Hadoop)
+Run the following code in Pig (Hadoop)
 3.	Filtering of tweets according to the ones which have been tweeted and the ones which have been retweeted using the following commands:
 
 tweet = LOAD '/tweet2' USING PigStorage(',') as (text:chararray, id:int, screenName:chararray, retweetCount:int, isRetweet:boolean, Countr1:chararray);
@@ -70,7 +70,7 @@ countr = GROUP m1 BY Countr1;
 count_final= foreach countr generate group, COUNT($1) as cnt,$1;
 STORE count_final INTO '/op1' using PigStorage(',');
 
-#Run the following code in R
+Run the following code in R
 4.	In order to plot the number of tweets and retweets on a world graph, the following code is used:
 
 tweetsdata<-read.csv("Retweets.csv")
@@ -78,23 +78,23 @@ attach(tweetsdata)
 data(wrld_simpl)
 plot(wrld_simpl, 
      			col = c(gray(.80), "red")[grepl("^U", wrld_simpl@data$Country) + 1])
-#mapDevice('x11')
-#spdf     <-joinCountryData2Map(tweets, joinCode="NAME", nameJoinColumn="Country")
-#mapCountryData(spdf, nameColumnToPlot="No of Tweets", catMethod="fixedWidth")
+mapDevice('x11')
+spdf     <-joinCountryData2Map(tweets, joinCode="NAME", nameJoinColumn="Country")
+mapCountryData(spdf, nameColumnToPlot="No of Tweets", catMethod="fixedWidth")
 names(tweetsdata)<-c("region","freq")
 names(tweetsdata)
-#change 0's to NA
+change 0's to NA
 tweetsdata$freq[tweets$freq==0] <- NA
-#load world data
+load world data
 world <- map_data("world2")
-#Delete Antarctica
+Delete Antarctica
 world <- subset(world,region!="Antarctica")
 world$tweets <- tweetsdata$freq[match(world$region,tweetsdata$region,nomatch=NA)]
 map <- qplot(long, lat, data = world, group = group,fill=tweets,geom ="polygon",ylab="",xlab="")
 map
 map + scale_fill_gradient(name="Number of\nTweets", breaks = c(5,10,15,20,25,30,35,40,45,50))
 
-INSTALLATION
+#INSTALLATION
 
 1.	R software and Rstudio
 
@@ -128,7 +128,7 @@ update-alternatives --config java
 ls -a
 vim .bashrc
 
-#HADOOP VARIABLES START
+HADOOP VARIABLES START
 export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64
 export HADOOP_INSTALL_PATH=/home/hdpuser/hadoop
 export PATH=$PATH:$HADOOP_INSTALL_PATH/bin
@@ -139,7 +139,7 @@ export HADOOP_HDFS_HOME=$HADOOP_INSTALL_PATH
 export YARN_HOME=$HADOOP_INSTALL_PATH
 export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_INSTALL_PATH/lib/native
 export HADOOP_OPTS="-Djava.library.path=$HADOOP_INSTALL_PATH/lib"
-#HADOOP VARIABLES ENDS
+HADOOP VARIABLES ENDS
 
 // Sourcing the .bashrc file after adding the newly created content
 
