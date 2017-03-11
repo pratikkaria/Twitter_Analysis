@@ -22,9 +22,9 @@ o	The ‘rworldmap’ and ‘ggplot2’ packages are installed in R.
 o	The data points are plotted on a world map using the ‘rworldmap’ library.
 o	The final output of the project is generated which contains two world maps, one of which indicates number of tweets in different countries of the world while the other indicates number of re-tweets for the same.
 
-CODE EXAMPLE
+#CODE EXAMPLE
 		    
-#Run the following code in R
+Run the following code in R
 1.	Connecting with twitter API by providing the necessary authentication tokens and scraping data by providing the geocode (latitude and longitude) as to specify a region boundary within which tweets are to be fetched:
 
 download.file(url="http://curl.haxx.se/ca/cacert.pem",destfile="cacert.pem")
